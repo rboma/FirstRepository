@@ -1,3 +1,4 @@
 Good bye!
 some string
 line from user2
+another line ftom user2
